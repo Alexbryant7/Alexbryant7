@@ -35,5 +35,5 @@ Here, I’ll share some of the projects I’ve worked on or am currently develop
 ## Connect with Me ☕
 
 [![](https://img.icons8.com/fluency/48/000000/instagram-new.png )](https://www.instagram.com/alexb__17/) 
-[![](https://img.icons8.com/fluency/48/000000/facebook.png )](https://www.facebook.com/people/Alex-Torres/)
+[![](https://img.icons8.com/fluency/48/000000/facebook.png )](https://www.facebook.com/people/Alex-Torres/pfbid0a3DQm7iHDke6KCJJwGW8JZiXk52iefNr529YYJSNeyGX7nhFqDbdbCVkQQuFTEzJl/?rdid=5ANcHEUjA2uw6H8m&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Hu9s1DbZk%2F)
 
