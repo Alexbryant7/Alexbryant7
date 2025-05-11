@@ -47,7 +47,7 @@ I'm a programming student currently focused on **learning Java** ☕️. I'm exp
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| ‎ ‎ ‎  <a href="https://www.instagram.com/alexb__17/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href=""> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| ‎ ‎ ‎  <a href="https://www.instagram.com/alexb__17/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="Discordapp.com/users/1361527872451252435"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
