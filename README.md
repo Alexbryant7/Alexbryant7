@@ -17,23 +17,27 @@
 - 💻 Interests: Software development, problem-solving, design, and logic
 
 <br>
+<div align="center">
+<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a> 
+<a href="https://www.figma.com/" target="_blank">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
-## 🚀 Technologies I'm Using
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <br>
 
-## 📂 Projects
+<div align="Center">
 
-Here, I’ll share some of the projects I’ve worked on or am currently developing as part of my Java learning journey.
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| ‎ ‎ ‎  <a href="https://www.instagram.com/alexb__17/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href=""> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
-<br>
+</div>
 
-## Connect with Me ☕
 
-[![](https://img.icons8.com/fluency/48/000000/instagram-new.png )](https://www.instagram.com/alexb__17/) 
-[![](https://img.icons8.com/fluency/48/000000/facebook.png )](https://www.facebook.com/people/Alex-Torres/pfbid0a3DQm7iHDke6KCJJwGW8JZiXk52iefNr529YYJSNeyGX7nhFqDbdbCVkQQuFTEzJl/?rdid=5ANcHEUjA2uw6H8m&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Hu9s1DbZk%2F)
 
